@@ -1,5 +1,5 @@
 import random
-import sockey
+import socket
 import threading
 
 print("Orang Biasa")
